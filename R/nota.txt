@@ -1,0 +1,2 @@
+#2 novembre 2020
+I file .csv sono stati prodotti utilizzando gli script e i dati memorizzati nell'organization "valori_climatologici_1991_2020" sotto Umbria.
